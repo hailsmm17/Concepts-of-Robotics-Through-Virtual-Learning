@@ -1,0 +1,2 @@
+beginner_tutorials:gazebo_simulation:tutorial1
+-DCATKIN_DEVEL_PREFIX=/home/ros1t1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros1t1/catkin_ws/install -G Unix Makefiles
